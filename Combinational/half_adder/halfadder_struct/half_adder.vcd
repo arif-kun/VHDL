@@ -1,0 +1,80 @@
+$date
+  Thu Feb 11 16:59:46 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module half_adder_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # sum $end
+$var reg 1 $ carry $end
+$scope module uut $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' sum $end
+$var reg 1 ( carry $end
+$scope module u1 $end
+$var reg 1 ) i1 $end
+$var reg 1 * i2 $end
+$var reg 1 + o $end
+$upscope $end
+$scope module u2 $end
+$var reg 1 , i1 $end
+$var reg 1 - i2 $end
+$var reg 1 . o $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+#100000000
+1"
+1#
+1$
+1&
+1'
+1(
+1*
+1+
+1-
+1.
+#200000000
+1!
+0"
+1%
+0&
+1)
+0*
+1,
+0-
+#300000000
+1"
+0#
+1&
+0'
+1*
+0+
+1-
+#400000000

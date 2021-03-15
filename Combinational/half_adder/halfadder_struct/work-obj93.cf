@@ -1,0 +1,13 @@
+v 4
+file . "half_adder.vhd" "27c207b0daeca5f8a81579057f2b0eb4802466b4" "20210211112945.320":
+  entity half_adder at 1( 0) + 0 on 17;
+  architecture structural of half_adder at 10( 164) + 0 on 18;
+file . "and_gate.vhd" "51b0763a20b103a25e23ee89fedb6b42619c1169" "20210211112945.079":
+  entity and_gate at 1( 0) + 0 on 13;
+  architecture structural of and_gate at 14( 171) + 0 on 14;
+file . "xor_gate.vhd" "c1ee8cd8f47e6a9167fab22c48cfbe4b378909f9" "20210211112944.972":
+  entity xor_gate at 1( 0) + 0 on 11;
+  architecture structural of xor_gate at 14( 171) + 0 on 12;
+file . "half_adder_tb.vhd" "1fdb0ad3396841b3fa827f69f2da25a5236efb79" "20210211112945.192":
+  entity half_adder_tb at 1( 0) + 0 on 15;
+  architecture structural of half_adder_tb at 7( 94) + 0 on 16;
