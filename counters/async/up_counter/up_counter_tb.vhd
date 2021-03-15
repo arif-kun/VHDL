@@ -31,7 +31,7 @@ begin
 
     clock: process
     begin
-        for ii in 1 to 7 loop
+        for ii in 1 to 16 loop
             clk_in <= '0';
             wait for 10 ns;
             clk_in <= '1';
